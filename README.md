@@ -1,1 +1,1 @@
-Screenshot_20220731-152917_Gallery
+apt-get install libevent-dev
